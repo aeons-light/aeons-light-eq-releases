@@ -17,6 +17,7 @@ Harmonic EQ automatically detects the fundamental frequency of your audio and po
 - **Frequency Lock** — manual frequency override for drones, synths, and single-note processing
 - **Sidechain or MIDI** - take the pitch from another track, or from MIDI notes where detection
   would struggle: a chord, a noisy mic, heavy distortion
+- **Pitch-to-MIDI** - export the tracked note as MIDI, with level-based velocity and attack retriggering.
 - **79 Factory Presets** - vocal, guitar, bass, drums, de-harsh, creative, mastering, advanced, plus
   band layouts that place the bands and leave the sound alone
 
@@ -49,6 +50,19 @@ Harmonic EQ automatically detects the fundamental frequency of your audio and po
 > Try it free with full functionality. Purchase a license at [aeonslight.com](https://www.aeonslight.com) to unlock.
 
 ## Changelog
+
+### v1.1.0 (2026-09-08)
+
+**Added**
+- Export pitch as MIDI: the tracked note goes out as MIDI, with velocity following your level.
+- Retriggering: a fresh attack at the same pitch starts a new note, with sensitivity and timing controls.
+- Right-click the pitch readout to show note names instead of Hertz.
+
+**Improved**
+- MIDI note stability reaches 75 cents for deep vibrato, and leaps always switch instantly.
+- The VST3 parameter list is 2048 entries shorter.
+
+Note: the new MIDI output appears after a plugin rescan in your DAW.
 
 ### v1.0.6 (2026-08-31)
 
