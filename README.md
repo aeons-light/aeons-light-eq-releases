@@ -51,6 +51,18 @@ Harmonic EQ automatically detects the fundamental frequency of your audio and po
 
 ## Changelog
 
+### v1.1.1 (2026-09-11)
+
+**Added**
+- MIDI note confirmation: a new pitch must hold before its note is sent, so vibrato and slides stop flipping notes.
+- Tooltips on every MIDI export setting.
+
+**Improved**
+- The minimum note gap now applies to every note, not only retriggers.
+
+**Fixed**
+- Mono inputs are supported (mono to stereo), and channel layouts the plugin cannot process are refused instead of misadvertised.
+
 ### v1.1.0 (2026-09-08)
 
 **Added**
