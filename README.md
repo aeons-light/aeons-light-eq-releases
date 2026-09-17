@@ -51,6 +51,17 @@ Harmonic EQ automatically detects the fundamental frequency of your audio and po
 
 ## Changelog
 
+### v1.1.2 (2026-09-17)
+
+**Added**
+- Right-click a node to open its band menu.
+- Free Move: drag a node sideways to set a custom multiplier.
+- Freeze: hold one band still while the others keep tracking.
+- Next and Previous Harmonic in the band menu, alongside the + and - keys.
+
+**Fixed**
+- Solo now applies to the wet signal only, so MIX behaves while a band is soloed.
+
 ### v1.1.1 (2026-09-11)
 
 **Added**
