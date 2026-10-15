@@ -43,9 +43,9 @@ Aeons Light EQ automatically detects the fundamental frequency of your audio and
 
 | Platform | Download |
 |----------|----------|
-| **Windows** | [Download Installer (.exe)](https://github.com/aeons-light/aeons-light-releases/releases/latest/download/AeonsLightEQ-Windows-Installer.exe) |
-| **macOS** | [Download Installer (.pkg)](https://github.com/aeons-light/aeons-light-releases/releases/latest/download/AeonsLightEQ-macOS-Installer.pkg) |
-| **Linux** | [Download VST3](https://github.com/aeons-light/aeons-light-releases/releases/latest/download/AeonsLightEQ-Linux-VST3.zip) · [Download CLAP](https://github.com/aeons-light/aeons-light-releases/releases/latest/download/AeonsLightEQ-Linux-CLAP.zip) |
+| **Windows** | [Download Installer (.exe)](https://github.com/aeons-light/aeons-light-eq-releases/releases/latest/download/AeonsLightEQ-Windows-Installer.exe) |
+| **macOS** | [Download Installer (.pkg)](https://github.com/aeons-light/aeons-light-eq-releases/releases/latest/download/AeonsLightEQ-macOS-Installer.pkg) |
+| **Linux** | [Download VST3](https://github.com/aeons-light/aeons-light-eq-releases/releases/latest/download/AeonsLightEQ-Linux-VST3.zip) · [Download CLAP](https://github.com/aeons-light/aeons-light-eq-releases/releases/latest/download/AeonsLightEQ-Linux-CLAP.zip) |
 
 > Try it free with full functionality. Purchase a license at [aeonslight.com](https://www.aeonslight.com) to unlock.
 
