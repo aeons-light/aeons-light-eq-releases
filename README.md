@@ -1,10 +1,10 @@
-# Harmonic EQ
+# Aeons Light EQ
 
 **Intelligent harmonic-tracking parametric EQ by Aeons Light**
 
-Harmonic EQ automatically detects the fundamental frequency of your audio and positions EQ bands at exact harmonic multiples — shaping individual harmonics in real-time as the pitch changes.
+Aeons Light EQ automatically detects the fundamental frequency of your audio and positions EQ bands at exact harmonic multiples — shaping individual harmonics in real-time as the pitch changes.
 
-![Harmonic EQ](images/harmonic-eq-tracking-no-eq.png)
+![Aeons Light EQ](images/aeons-light-tracking-no-eq.png)
 
 ## Features
 
@@ -23,19 +23,19 @@ Harmonic EQ automatically detects the fundamental frequency of your audio and po
 
 ### EQ with Harmonic Tracking
 
-![EQ Applied](images/harmonic-eq-eq-applied.png)
+![EQ Applied](images/aeons-light-eq-applied.png)
 
 ### Dynamic Mode
 
-![Dynamic EQ](images/harmonic-eq-dynamic.png)
+![Dynamic EQ](images/aeons-light-dynamic.png)
 
 ### Solo Audition
 
-![Solo](images/harmonic-eq-solo.png)
+![Solo](images/aeons-light-solo.png)
 
 ### Higher Harmonics
 
-![Higher Harmonics](images/harmonic-eq-higher-harmonics.png)
+![Higher Harmonics](images/aeons-light-higher-harmonics.png)
 
 ## Download
 
@@ -43,9 +43,9 @@ Harmonic EQ automatically detects the fundamental frequency of your audio and po
 
 | Platform | Download |
 |----------|----------|
-| **Windows** | [Download Installer (.exe)](https://github.com/aeons-light/harmonic-eq-releases/releases/latest/download/HarmonicEQ-Windows-Installer.exe) |
-| **macOS** | [Download Installer (.pkg)](https://github.com/aeons-light/harmonic-eq-releases/releases/latest/download/HarmonicEQ-macOS-Installer.pkg) |
-| **Linux** | [Download VST3](https://github.com/aeons-light/harmonic-eq-releases/releases/latest/download/HarmonicEQ-Linux-VST3.zip) · [Download CLAP](https://github.com/aeons-light/harmonic-eq-releases/releases/latest/download/HarmonicEQ-Linux-CLAP.zip) |
+| **Windows** | [Download Installer (.exe)](https://github.com/aeons-light/aeons-light-releases/releases/latest/download/AeonsLightEQ-Windows-Installer.exe) |
+| **macOS** | [Download Installer (.pkg)](https://github.com/aeons-light/aeons-light-releases/releases/latest/download/AeonsLightEQ-macOS-Installer.pkg) |
+| **Linux** | [Download VST3](https://github.com/aeons-light/aeons-light-releases/releases/latest/download/AeonsLightEQ-Linux-VST3.zip) · [Download CLAP](https://github.com/aeons-light/aeons-light-releases/releases/latest/download/AeonsLightEQ-Linux-CLAP.zip) |
 
 > Try it free with full functionality. Purchase a license at [aeonslight.com](https://www.aeonslight.com) to unlock.
 
