@@ -51,6 +51,23 @@ Aeons Light EQ automatically detects the fundamental frequency of your audio and
 
 ## Changelog
 
+### v2.0.0 (2026-10-15)
+
+- Rebranded as Aeons Light EQ, with a refreshed look.
+- Added support for Intel Macs running macOS 10.13 High Sierra and later.
+- Improved compatibility with Logic Pro and other DAWs.
+- Improved analyzer display and interface usability.
+- Improved preset recall.
+- General stability improvements.
+
+Existing licenses remain valid, and the update is free for current owners.
+
+### v1.1.3 (2026-10-12)
+
+- Improved performance and stability.
+- Improved compatibility across macOS and Linux.
+- Fixed display scaling issues and added smaller interface sizes.
+
 ### v1.1.2 (2026-09-17)
 
 **Added**
@@ -259,7 +276,7 @@ Various bug fixes and refinements.
 ## System Requirements
 
 - Windows 10+ (64-bit)
-- macOS 11+ (Intel & Apple Silicon)
+- macOS 10.13+ (Intel), macOS 11+ (Apple Silicon)
 - Linux (64-bit)
 - Any DAW supporting VST3, CLAP, or AU
 
