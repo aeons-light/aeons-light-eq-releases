@@ -11,14 +11,17 @@ Aeons Light EQ automatically detects the fundamental frequency of your audio and
 - **Follows Every Note** — bands lock onto the fundamental and ride the harmonic series in real time
 - **8 Configurable Bands** - any harmonic, sub-harmonic, musical interval or custom multiplier, as a
   bell, shelf, notch, high pass or low pass, at 6 to 48 dB/oct
-- **Dynamic Mode** — per-band threshold gating applies EQ only when harmonics exceed your set level
-- **Live Spectrum Analyzer** — pre/post FFT display with draggable nodes and bell curve visualization
+- **Shape tone and control peaks independently** — combine a permanent boost or cut with separate dynamic adjustment.
+- **Set how each band reacts** — tailor Attack and Release for punch, control, or sustained movement.
+- **Advanced tracking controls** — lookahead and smoothing help track even the toughest material. Enable them in Settings.
+- **Now available for Pro Tools** — AAX joins VST3, AU, and CLAP.
+- **Live Spectrum Analyzer** — live spectrum with adjustable color, draggable nodes and an EQ response curve
 - **Solo Audition** — isolate any band to hear exactly what the EQ is doing
 - **Frequency Lock** — manual frequency override for drones, synths, and single-note processing
 - **Sidechain or MIDI** - take the pitch from another track, or from MIDI notes where detection
   would struggle: a chord, a noisy mic, heavy distortion
 - **Pitch-to-MIDI** - export the tracked note as MIDI, with level-based velocity and attack retriggering.
-- **79 Factory Presets** - vocal, guitar, bass, drums, de-harsh, creative, mastering, advanced, plus
+- **Factory Presets** - vocal, guitar, bass, drums, de-harsh, creative, mastering, advanced, plus
   band layouts that place the bands and leave the sound alone
 
 ### EQ with Harmonic Tracking
@@ -47,9 +50,21 @@ Aeons Light EQ automatically detects the fundamental frequency of your audio and
 | **macOS** | [Download Installer (.pkg)](https://github.com/aeons-light/aeons-light-eq-releases/releases/latest/download/AeonsLightEQ-macOS-Installer.pkg) |
 | **Linux** | [Download VST3](https://github.com/aeons-light/aeons-light-eq-releases/releases/latest/download/AeonsLightEQ-Linux-VST3.zip) · [Download CLAP](https://github.com/aeons-light/aeons-light-eq-releases/releases/latest/download/AeonsLightEQ-Linux-CLAP.zip) |
 
-> Try it free with full functionality. Purchase a license at [aeonslight.com](https://www.aeonslight.com) to unlock.
+> Try it free with full functionality. A lifetime license from [aeonslight.com](https://www.aeonslight.com) removes the countdown screen.
 
 ## Changelog
+
+### v2.1.0 (2026-11-09)
+
+- **AAX support** for Pro Tools on Windows and macOS.
+- **Independent dynamic gain**, with per-band Attack and Release controls.
+- **Lookahead controls** — enabled in Settings.
+- **Smoothing controls** — enabled in Settings.
+- **Custom analyzer colors** and refreshed interface styling.
+- **Updated factory presets.**
+- Various bug fixes.
+
+[All releases and full release notes](https://github.com/aeons-light/aeons-light-eq-releases/releases)
 
 ### v2.0.0 (2026-10-15)
 
@@ -276,9 +291,9 @@ Various bug fixes and refinements.
 ## System Requirements
 
 - Windows 10+ (64-bit)
-- macOS 10.13+ (Intel), macOS 11+ (Apple Silicon)
-- Linux (64-bit)
-- Any DAW supporting VST3, CLAP, or AU
+- macOS 10.13+ (Intel), macOS 11+ (Apple Silicon); AAX requires macOS 11+ on either architecture
+- Linux: Ubuntu 22.04+ or equivalent (64-bit)
+- A compatible DAW supporting VST3, CLAP, AU or AAX; AAX is included on Windows and macOS
 
 ## License
 
